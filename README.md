@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm "LazyBeaver" and I'm a Software and Game developer</h2>
+<h2 align="left">Hi 👋! I'm "LazyBeaver"</h2>
 
 ###
 
