@@ -87,6 +87,6 @@
 
 ###
 
-<p align="left">👋 Hello, I'm Aditya!<br>🎮 Game Developer in Unity | 📱 Android Developer in Android Studio (Kotlin) | 🐍 Python Enthusiast | 🌐 C++ Programmer | 🤖 Exploring Machine Learning 🚀<br><br>Welcome to my GitHub profile! I'm a passionate developer with a love for creating immersive games, building sleek Android apps, and diving into the world of machine learning. Here, you'll find a collection of my projects, experiments, and contributions as I continue to grow and explore new technologies.</p>
+<p align="left">👋 Hello, I'm LazyBeaver!<br>🎮 Game Developer in Unity | 📱 Android Developer in Android Studio (Kotlin) | 🐍 Python Enthusiast | 🌐 C++ Programmer | 🤖 Exploring Machine Learning 🚀<br><br>Welcome to my GitHub profile! I'm a passionate developer with a love for creating immersive games, building sleek Android apps, and diving into the world of machine learning. Here, you'll find a collection of my projects, experiments, and contributions as I continue to grow and explore new technologies.</p>
 
 ###
