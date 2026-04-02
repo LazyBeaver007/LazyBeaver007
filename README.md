@@ -23,7 +23,6 @@
 ▸ HIVEMIND       — knowledge graph AI, entity extraction, RAG
 ▸ WeeWoo Lang    — a programming language. with LLVM. yes really.
 ▸ NukaNote       — offline-first Android notepad
-▸ PaperMaster    — research vault in Rust/Tauri
 ▸ Healthcare   — offline clinical AI for under-resourced hospitals
 ```
 
@@ -37,7 +36,7 @@
 
 ---
 
-`76 repos` · `games on itch.io since age 15` · `Neovim only`
+
 
 **→ [Enter the Terminal](https://lazybeaver007.netlify.app/)**
 
